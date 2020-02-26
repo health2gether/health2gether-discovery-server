@@ -1,0 +1,3 @@
+eureka:
+  serviceUrl:
+    defaultZone: http://netflix-discovery-server:8761
