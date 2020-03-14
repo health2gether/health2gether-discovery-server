@@ -1,3 +1,3 @@
 eureka:
   serviceUrl:
-    defaultZone: http://netflix-discovery-server:8761
+    defaultZone: http://health2gether-discovery-server:8761
